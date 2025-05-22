@@ -11,7 +11,7 @@
     <tags>
       <tag>stable</tag>
     </tags>
-    <maintainer>Marc Heinrich123</maintainer>
+    <maintainer>Marc Heinrich</maintainer>
     <maintainerurl>https://github.com/marc-heinrich/onepager-joomla-update.git</maintainerurl>
     <targetplatform name="joomla" version="4.0"/>
   </update>
