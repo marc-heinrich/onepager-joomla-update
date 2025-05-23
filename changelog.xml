@@ -1,0 +1,30 @@
+<changelogs>
+    <changelog>
+        <element>pkg_onepager</element>
+        <type>package</type>
+        <version>0.0.1</version>
+        <date>2024-05-23</date>
+        <security>
+            <item><![CDATA[<p>Keine Sicherheitsprobleme bekannt.</p>]]></item>
+        </security>
+        <fix>
+            <item>Initiale Version, keine Bugfixes.</item>
+        </fix>
+        <language>
+            <item>Deutsch</item>
+        </language>
+        <addition>
+            <item>Erste Veröffentlichung des OnePager-Pakets.</item>
+            <item>Basisfunktionen für Joomla 5.</item>
+        </addition>
+        <change>
+            <item>–</item>
+        </change>
+        <remove>
+            <item>–</item>
+        </remove>
+        <note>
+            <item>Erste stabile Version veröffentlicht.</item>
+        </note>
+    </changelog>
+</changelogs>
