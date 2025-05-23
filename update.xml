@@ -5,16 +5,22 @@
     <element>pkg_onepager</element>
     <type>package</type>
     <version>0.0.2</version>
+    <infourl title="OnePager Dokumentation">https://marc-heinrich.github.io/onepager-joomla-update/</infourl>
     <downloads>
-      <downloadurl type="full" format="zip">https://marc-heinrich.github.io/onepager-joomla-update/pkg_onepager-0.0.2.zip</downloadurl>
+      <downloadurl type="full" format="zip">
+        https://marc-heinrich.github.io/onepager-joomla-update/pkg_onepager-0.0.2.zip
+      </downloadurl>
     </downloads>
     <tags>
       <tag>stable</tag>
     </tags>
     <maintainer>Marc Heinrich</maintainer>
-    <maintainerurl></maintainerurl>
+    <maintainerurl>https://marc-heinrich.github.io/onepager-joomla-update/</maintainerurl>
     <targetplatform name="joomla" version="5.0"/>
-    <sha256>E8ACEA601419F19C66E549CE2A0FADA0CF3760DBE11A19CAAFD915F2A368E7A9</sha256>
+    <php_minimum>8.1</php_minimum>
+    <sha256>
+      E8ACEA601419F19C66E549CE2A0FADA0CF3760DBE11A19CAAFD915F2A368E7A9
+    </sha256>
   </update>
   <update>
     <name>OnePager</name>
@@ -22,15 +28,21 @@
     <element>pkg_onepager</element>
     <type>package</type>
     <version>0.0.1</version>
+    <infourl title="OnePager Dokumentation">https://marc-heinrich.github.io/onepager-joomla-update/</infourl>
     <downloads>
-      <downloadurl type="full" format="zip">https://marc-heinrich.github.io/onepager-joomla-update/pkg_onepager-0.0.1.zip</downloadurl>
+      <downloadurl type="full" format="zip">
+        https://marc-heinrich.github.io/onepager-joomla-update/pkg_onepager-0.0.1.zip
+      </downloadurl>
     </downloads>
     <tags>
       <tag>stable</tag>
     </tags>
     <maintainer>Marc Heinrich</maintainer>
-    <maintainerurl></maintainerurl>
+    <maintainerurl>https://marc-heinrich.github.io/onepager-joomla-update/</maintainerurl>
     <targetplatform name="joomla" version="5.0"/>
-    <sha256>D7942FCAAC0F725973CE8BB8A34C818F8010EAED32198502BBC5913F300E34BC</sha256>
+    <php_minimum>8.1</php_minimum>
+    <sha256>
+      D7942FCAAC0F725973CE8BB8A34C818F8010EAED32198502BBC5913F300E34BC
+    </sha256>
   </update>
 </updates>
