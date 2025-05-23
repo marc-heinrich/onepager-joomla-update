@@ -14,7 +14,7 @@
     <maintainer>Marc Heinrich</maintainer>
     <maintainerurl></maintainerurl>
     <targetplatform name="joomla" version="5.0"/>
-    <sha256>8BD5F277632CCC3360408321215B5224F960A8F44673E238DEB1EE690C6D8180</sha256>
+    <sha256>E8ACEA601419F19C66E549CE2A0FADA0CF3760DBE11A19CAAFD915F2A368E7A9</sha256>
   </update>
   <update>
     <name>OnePager</name>
