@@ -5,17 +5,17 @@
         <version>0.0.1</version>
         <date>2024-05-23</date>
         <security>
-            <item><![CDATA[<p>Keine Sicherheitsprobleme bekannt.</p>]]></item>
+            <item><![CDATA[<p>No known security issues.</p>]]></item>
         </security>
         <fix>
-            <item>Initiale Version, keine Bugfixes.</item>
+            <item>Initial version, no bugfixes.</item>
         </fix>
         <language>
-            <item>Deutsch</item>
+            <item>English</item>
         </language>
         <addition>
-            <item>Erste Veröffentlichung des OnePager-Pakets.</item>
-            <item>Basisfunktionen für Joomla 5.</item>
+            <item>First release of the OnePager package.</item>
+            <item>Basic features for Joomla 5.</item>
         </addition>
         <change>
             <item>–</item>
@@ -24,7 +24,34 @@
             <item>–</item>
         </remove>
         <note>
-            <item>Erste stabile Version veröffentlicht.</item>
+            <item>First stable version released.</item>
+        </note>
+    </changelog>
+    <changelog>
+        <element>pkg_onepager</element>
+        <type>package</type>
+        <version>0.0.2</version>
+        <date>2024-06-01</date>
+        <security>
+            <item><![CDATA[<p>No known security issues.</p>]]></item>
+        </security>
+        <fix>
+            <item>No bugfixes in this version.</item>
+        </fix>
+        <language>
+            <item>English</item>
+        </language>
+        <addition>
+            <item>Minor improvements and preparations for further modules.</item>
+        </addition>
+        <change>
+            <item>–</item>
+        </change>
+        <remove>
+            <item>–</item>
+        </remove>
+        <note>
+            <item>Maintenance update.</item>
         </note>
     </changelog>
 </changelogs>
