@@ -4,11 +4,11 @@
     <description>Update für OnePager</description>
     <element>pkg_onepager</element>
     <type>package</type>
-    <version>0.0.2</version>
+    <version>0.1.0</version>
     <infourl title="OnePager Dokumentation">https://marc-heinrich.github.io/onepager-joomla-update/</infourl>
     <downloads>
       <downloadurl type="full" format="zip">
-        https://marc-heinrich.github.io/onepager-joomla-update/pkg_onepager-0.0.2.zip
+        https://marc-heinrich.github.io/onepager-joomla-update/pkg_onepager-0.1.0.zip
       </downloadurl>
     </downloads>
     <tags>
@@ -19,7 +19,7 @@
     <targetplatform name="joomla" version="5.*"/>
     <php_minimum>8.1</php_minimum>
     <sha256>
-      E8ACEA601419F19C66E549CE2A0FADA0CF3760DBE11A19CAAFD915F2A368E7A9
+      1CC685CBCFBF14025C01565C5BA3FDEFC57EDCCD2BE297AEF6B275199F4379E0
     </sha256>
   </update>
   <update>
