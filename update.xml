@@ -1,6 +1,6 @@
 <updates>
   <update>
-    <name>OnePager</name>
+    <name>onepager</name>
     <element>pkg_onepager</element>
     <type>package</type>
     <version>0.1.0</version>
