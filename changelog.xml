@@ -30,7 +30,7 @@
     <changelog>
         <element>pkg_onepager</element>
         <type>package</type>
-        <version>0.0.2</version>
+        <version>0.1.0</version>
         <date>2024-06-01</date>
         <security>
             <item><![CDATA[<p>No known security issues.</p>]]></item>
