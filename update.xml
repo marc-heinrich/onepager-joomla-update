@@ -10,7 +10,7 @@
         https://marc-heinrich.github.io/onepager-joomla-update/pkg_onepager-0.0.2.zip
       </downloadurl>
     </downloads>
-    <targetplatform name="joomla" version="5.0"/>
+    <targetplatform name="joomla" version=".*"/>
     <tags>
       <tag>stable</tag>
     </tags>
