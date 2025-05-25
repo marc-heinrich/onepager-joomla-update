@@ -1,26 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
 <updates>
   <update>
     <name>onepager</name>
     <element>pkg_onepager</element>
     <type>package</type>
-    <client>site</client>
     <version>0.0.2</version>
     <downloads>
       <downloadurl type="full" format="zip">https://marc-heinrich.github.io/onepager-joomla-update/pkg_onepager-0.0.2.zip</downloadurl>
-    </downloads>
-    <targetplatform name="joomla" version="5.0"/>
-    <tags>
-      <tag>stable</tag>
-    </tags>
-  </update>
-  <update>
-    <name>onepager</name>
-    <element>pkg_onepager</element>
-    <type>package</type>
-    <client>site</client>
-    <version>0.0.1</version>
-    <downloads>
-      <downloadurl type="full" format="zip">https://marc-heinrich.github.io/onepager-joomla-update/pkg_onepager-0.0.1.zip</downloadurl>
     </downloads>
     <targetplatform name="joomla" version="5.0"/>
     <tags>
