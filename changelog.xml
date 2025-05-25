@@ -1,7 +1,9 @@
 <changelogs>
     <changelog>
+        <name>onepager</name>
         <element>pkg_onepager</element>
         <type>package</type>
+        <client_id>0</client_id>
         <version>0.0.1</version>
         <date>2024-05-23</date>
         <security>
@@ -28,8 +30,10 @@
         </note>
     </changelog>
     <changelog>
+        <name>onepager</name>
         <element>pkg_onepager</element>
         <type>package</type>
+        <client_id>0</client_id>
         <version>0.0.2</version>
         <date>2024-06-01</date>
         <security>
