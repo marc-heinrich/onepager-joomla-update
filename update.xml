@@ -11,6 +11,8 @@
         https://marc-heinrich.github.io/onepager-joomla-update/pkg_onepager-0.0.2.zip
       </downloadurl>
     </downloads>
+    <changelogurl>https://marc-heinrich.github.io/onepager-joomla-update/changelog.xml</changelogurl>
+	  <infourl title="OnePager Documentation">https://marc-heinrich.github.io/onepager-joomla-update/</infourl>
     <targetplatform name="joomla" version="5.*"/>
     <tags>
       <tag>stable</tag>
