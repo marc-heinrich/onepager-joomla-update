@@ -17,7 +17,7 @@
     <tags>
       <tag>stable</tag>
     </tags>
-    <sha256>58181B07B45CF2D486CCF63D0C88B6BE9F135B6A18D0D332B74B2EFE60540702</sha256>
+    <sha256>A8B3A6C7FA9238D9A2806333E2422FE57C3548E69BDC4B2DC4AB92D2E6DC0138</sha256>
     <php_minimum>8.1.0</php_minimum>
   </update>
 </updates>
