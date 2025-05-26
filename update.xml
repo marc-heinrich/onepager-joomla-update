@@ -5,7 +5,7 @@
     <element>pkg_onepager</element>
     <type>package</type>
     <version>0.0.2</version>
-    <client_id>0</client_id>
+    <client>site</client>
     <downloads>
       <downloadurl type="full" format="zip">
         https://marc-heinrich.github.io/onepager-joomla-update/pkg_onepager-0.0.2.zip
