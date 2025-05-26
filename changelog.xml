@@ -1,9 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <changelogs>
     <changelog>
         <name>onepager</name>
         <element>pkg_onepager</element>
         <type>package</type>
-        <client_id>0</client_id>
+        <client>site</client>
+        <version>0.0.2</version>
+        <date>2024-06-01</date>
+        <security>
+            <item><![CDATA[<p>No known security issues.</p>]]></item>
+        </security>
+        <fix>
+            <item>No bugfixes in this version.</item>
+        </fix>
+        <language>
+            <item>English</item>
+        </language>
+        <addition>
+            <item>Minor improvements and preparations for further modules.</item>
+        </addition>
+        <change>
+            <item>–</item>
+        </change>
+        <remove>
+            <item>–</item>
+        </remove>
+        <note>
+            <item>Maintenance update.</item>
+        </note>
+    </changelog>
+    <changelog>
+        <name>onepager</name>
+        <element>pkg_onepager</element>
+        <type>package</type>
+        <client>site</client>
         <version>0.0.1</version>
         <date>2024-05-23</date>
         <security>
@@ -27,35 +57,6 @@
         </remove>
         <note>
             <item>First stable version released.</item>
-        </note>
-    </changelog>
-    <changelog>
-        <name>onepager</name>
-        <element>pkg_onepager</element>
-        <type>package</type>
-        <client_id>0</client_id>
-        <version>0.0.2</version>
-        <date>2024-06-01</date>
-        <security>
-            <item><![CDATA[<p>No known security issues.</p>]]></item>
-        </security>
-        <fix>
-            <item>No bugfixes in this version.</item>
-        </fix>
-        <language>
-            <item>English</item>
-        </language>
-        <addition>
-            <item>Minor improvements and preparations for further modules.</item>
-        </addition>
-        <change>
-            <item>–</item>
-        </change>
-        <remove>
-            <item>–</item>
-        </remove>
-        <note>
-            <item>Maintenance update.</item>
         </note>
     </changelog>
 </changelogs>
