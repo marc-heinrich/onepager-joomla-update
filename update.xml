@@ -13,6 +13,7 @@
     </downloads>
     <changelogurl>https://marc-heinrich.github.io/onepager-joomla-update/changelog.xml</changelogurl>
 	  <infourl title="OnePager Documentation">https://marc-heinrich.github.io/onepager-joomla-update/</infourl>
+    <!-- values ​​for the pre-update check in joomla -->
     <targetplatform name="joomla" version="5.*"/>
     <tags>
       <tag>stable</tag>
