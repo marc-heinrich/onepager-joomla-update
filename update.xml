@@ -4,6 +4,27 @@
     <name>onepager</name>
     <element>pkg_onepager</element>
     <type>package</type>
+    <version>0.0.3</version>
+    <client>site</client>
+    <downloads>
+      <downloadurl type="full" format="zip">
+        https://marc-heinrich.github.io/onepager-joomla-update/pkg_onepager-0.0.3.zip
+      </downloadurl>
+    </downloads>
+    <changelogurl>https://marc-heinrich.github.io/onepager-joomla-update/changelog.xml</changelogurl>
+	  <infourl title="OnePager Documentation">https://marc-heinrich.github.io/onepager-joomla-update/</infourl>
+    <!-- values ​​for the pre-update check in joomla -->
+    <targetplatform name="joomla" version="5.*"/>
+    <tags>
+      <tag>stable</tag>
+    </tags>
+    <sha256>469018C716573305A4FF5320986455015A770E23D90AE799BC4813161589E7F0</sha256>
+    <php_minimum>8.1.0</php_minimum>
+  </update>
+  <update>
+    <name>onepager</name>
+    <element>pkg_onepager</element>
+    <type>package</type>
     <version>0.0.2</version>
     <client>site</client>
     <downloads>

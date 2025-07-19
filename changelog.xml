@@ -5,6 +5,36 @@
         <element>pkg_onepager</element>
         <type>package</type>
         <client>site</client>
+        <version>0.0.3</version>
+        <date>2024-07-19</date>
+        <security>
+            <item><![CDATA[<p>No known security issues.</p>]]></item>
+        </security>
+        <fix>
+            <item>No bugfixes in this version.</item>
+        </fix>
+        <language>
+            <item>Deutsch</item>
+            <item>English</item>
+        </language>
+        <addition>
+            <item>Improvements in the gallery area (module and component).</item>
+        </addition>
+        <change>
+            <item>–</item>
+        </change>
+        <remove>
+            <item>–</item>
+        </remove>
+        <note>
+            <item>Maintenance update.</item>
+        </note>
+    </changelog>
+    <changelog>
+        <name>onepager</name>
+        <element>pkg_onepager</element>
+        <type>package</type>
+        <client>site</client>
         <version>0.0.2</version>
         <date>2024-06-01</date>
         <security>
