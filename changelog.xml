@@ -5,6 +5,36 @@
         <element>pkg_onepager</element>
         <type>package</type>
         <client>site</client>
+        <version>0.0.5</version>
+        <date>2025-08-27</date>
+        <security>
+            <item><![CDATA[<p>No known security issues.</p>]]></item>
+        </security>
+        <fix>
+            <item>No bugfixes in this version.</item>
+        </fix>
+        <language>
+            <item>Deutsch</item>
+            <item>English</item>
+        </language>
+        <addition>
+            <item>Extended <code>HandlerUtilsTrait</code> usage to the Router class.</item>
+        </addition>
+        <change>
+            <item>Router refactored to use <code>HandlerUtilsTrait::trim()</code> instead of a duplicate <code>trimSegment()</code> method.</item>
+        </change>
+        <remove>
+            <item>Removed redundant <code>trimSegment()</code> method from the Router class.</item>
+        </remove>
+        <note>
+            <item>Minor refactoring to reduce code duplication and improve maintainability.</item>
+        </note>
+    </changelog>
+    <changelog>
+        <name>onepager</name>
+        <element>pkg_onepager</element>
+        <type>package</type>
+        <client>site</client>
         <version>0.0.4</version>
         <date>2025-08-27</date>
         <security>
