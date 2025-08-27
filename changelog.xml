@@ -5,6 +5,37 @@
         <element>pkg_onepager</element>
         <type>package</type>
         <client>site</client>
+        <version>0.0.4</version>
+        <date>2025-08-27</date>
+        <security>
+            <item><![CDATA[<p>No known security issues.</p>]]></item>
+        </security>
+        <fix>
+            <item>No bugfixes in this version.</item>
+        </fix>
+        <language>
+            <item>Deutsch</item>
+            <item>English</item>
+        </language>
+        <addition>
+            <item>Introduced <code>HandlerUtilsTrait</code> to centralize common routing utilities.</item>
+        </addition>
+        <change>
+            <item>Removed DI-based registration of routing handlers; handlers are now managed locally in the Router.</item>
+            <item>Provider reduced to core-style service registration only (MVC, Dispatcher, Router, Component).</item>
+        </change>
+        <remove>
+            <item>Removed duplicate <code>isSefEnabled()</code> and <code>trim()</code> implementations from handlers.</item>
+        </remove>
+        <note>
+            <item>Refactoring of routing architecture to improve maintainability and stability.</item>
+        </note>
+    </changelog>
+    <changelog>
+        <name>onepager</name>
+        <element>pkg_onepager</element>
+        <type>package</type>
+        <client>site</client>
         <version>0.0.3</version>
         <date>2024-07-19</date>
         <security>
