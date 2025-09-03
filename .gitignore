@@ -1,0 +1,16 @@
+# OS noise
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+desktop.ini
+
+# IDEs & editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs / temp files (falls du mal was testest)
+*.log
+*.tmp
