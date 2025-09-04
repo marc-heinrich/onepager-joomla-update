@@ -5,6 +5,36 @@
         <element>pkg_onepager</element>
         <type>package</type>
         <client>site</client>
+        <version>0.0.6</version>
+        <date>2025-09-04</date>
+        <security>
+            <item><![CDATA[<p>No known security issues.</p>]]></item>
+        </security>
+        <fix>
+            <item>No bugfixes in this version.</item>
+        </fix>
+        <language>
+            <item>Deutsch</item>
+            <item>English</item>
+        </language>
+        <addition>
+            <item>Prepared GitHub Release upload with pkg_onepager as distributable asset.</item>
+        </addition>
+        <change>
+            <item>Version bump to 0.0.6 following semantic versioning (SemVer).</item>
+        </change>
+        <remove>
+            <item>–</item>
+        </remove>
+        <note>
+            <item>Maintenance update. Focus on release process improvements.</item>
+        </note>
+    </changelog>
+    <changelog>
+        <name>onepager</name>
+        <element>pkg_onepager</element>
+        <type>package</type>
+        <client>site</client>
         <version>0.0.5</version>
         <date>2025-08-27</date>
         <security>
